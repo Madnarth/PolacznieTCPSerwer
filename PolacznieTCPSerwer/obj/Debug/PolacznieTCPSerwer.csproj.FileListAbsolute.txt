@@ -1,0 +1,9 @@
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\bin\Debug\PolacznieTCPSerwer.exe.config
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\obj\Debug\PolacznieTCPSerwer.csprojResolveAssemblyReference.cache
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\obj\Debug\PolacznieTCPSerwer.Form1.resources
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\obj\Debug\PolacznieTCPSerwer.Properties.Resources.resources
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\obj\Debug\PolacznieTCPSerwer.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\bin\Debug\PolacznieTCPSerwer.exe
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\bin\Debug\PolacznieTCPSerwer.pdb
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\obj\Debug\PolacznieTCPSerwer.exe
+E:\Dokumenty\GitHub\PolacznieTCPSerwer\PolacznieTCPSerwer\obj\Debug\PolacznieTCPSerwer.pdb
